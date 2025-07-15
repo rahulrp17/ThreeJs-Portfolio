@@ -102,7 +102,7 @@ const Home = () => {
           />
         </Suspense>
       </Canvas>
-      <div className="absolute bottom-5 left-5 ">
+      <div className="absolute bottom-15 left-10 ">
         <img src={ !isPlayingMusic?soundoff:soundon}alt="Jukebox" onClick={() => setIsPlayingMusic(!isPlayingMusic)} className="w-15 h-15 object-contain cursor-pointer jukebox" />
       </div>
     </div>
