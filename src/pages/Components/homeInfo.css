@@ -1,0 +1,15 @@
+ .neo-brutalism-blue {
+  background: #3b3bf0;
+  position: relative;
+  border-radius: 10px;
+  border: #2b77e7;
+  box-shadow: 0.6vmin 0.6vmin #370be8, 1vmin 1vmin #3915c9, 1vmin 1vmin #0092db,
+    0.65vmin 1vmin #0092db, 1vmin 0.65vmin #0092db;
+}
+
+.neo-brutalism-white {
+  background: #fff;
+  border: #fff;
+  box-shadow: 0.6vmin 0.6vmin #fff, 1vmin 1vmin #d2e4ff, 1vmin 1vmin #d2e4ff,
+    0.65vmin 1vmin #d2e4ff, 1vmin 0.65vmin #d2e4ff;
+} 
