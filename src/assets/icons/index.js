@@ -31,7 +31,7 @@ import spring from './spring.svg'
 import mySql from './mySql.svg'
 import auth from './auth.jpg'
 import todo from './todo.jpg'
-import weather from './weather-.png'
+import weather from './Weather-.png'
 import user from './user.jpg'
 import food from './food.jpg'
 
