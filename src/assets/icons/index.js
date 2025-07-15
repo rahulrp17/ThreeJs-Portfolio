@@ -33,7 +33,7 @@ import auth from './auth.jpg'
 import todo from './todo.jpg'
 import weather from './Weather-.png'
 import user from './user.jpg'
-import food from './food.jpg'
+import food from './Food.jpg'
 
 export {
     css,
