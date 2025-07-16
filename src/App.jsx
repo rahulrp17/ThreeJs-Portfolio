@@ -12,8 +12,8 @@ import ScrollToTop from "./ScrollTop";
 function App() {
   return (
     <>
-       <ScrollToTop />
       <BrowserRouter>
+       <ScrollToTop />
         
         <Navbar />
         <Routes>
