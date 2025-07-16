@@ -24,7 +24,7 @@ const About = () => {
         <div className="mt-16 flex flex-wrap  justify-start gap-9 items-start ">
 
           {skills.map((skill,index) => (
-            <div key={index} className="w-20 h-20 block-container">
+            <div key={index} className="w-19 h-19 block-container">
               <div className="btn-back rounded-xl">
                 <div className='btn-front rounded-2xl flex items-center justify-center   '>
                   <img src={skill.imageUrl} alt={skill.name} className="w-1/2 h-full object-contain" />
