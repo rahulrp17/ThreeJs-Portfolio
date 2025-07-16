@@ -13,7 +13,7 @@ const projects = () => {
         </span>
       </h1>
       
-      <p className='mt-2 text-justify text-gray-800 leading-8'>
+      <p className='mt-2 text-justify text-slate-500 leading-8'>
              A collection of full stack web development projects that demonstrate my ability to design, build, and deploy robust web applications from end to end. These projects highlight hands-on experience with front-end frameworks <b>(React, HTML/CSS, Tailwind, Bootstrap,React),</b> back-end technologies <b>(Node.js, Express, Java, Spring Boot),</b> and databases <b>(MongoDB, Firebase, MySQL).</b> Each project reflects my focus on responsive design, <b >RESTful API</b>  integration, user authentication, and performance optimization—bringing complete, scalable solutions to life.
       </p>
 
