@@ -14,7 +14,7 @@ const projects = () => {
       </h1>
       
       <p className='mt-2 text-justify text-gray-800 leading-8'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi et architecto, similique veniam natus possimus sit voluptatibus praesentium? Expedita est odio exercitationem officia quibusdam quos corporis pariatur, similique eaque fugiat quidem quis laborum tempora harum, dolores optio nam, error corrupti itaque! Iusto dolore consequuntur sapiente amet quasi eius dolorem at.
+             A collection of full stack web development projects that demonstrate my ability to design, build, and deploy robust web applications from end to end. These projects highlight hands-on experience with front-end frameworks <b>(React, HTML/CSS, Tailwind, Bootstrap,React),</b> back-end technologies <b>(Node.js, Express, Java, Spring Boot),</b> and databases <b>(MongoDB, Firebase, MySQL).</b> Each project reflects my focus on responsive design, <b >RESTful API</b>  integration, user authentication, and performance optimization—bringing complete, scalable solutions to life.
       </p>
 
       <div className='flex my-20 flex-wrap  gap-10'>
