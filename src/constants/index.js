@@ -89,13 +89,13 @@ import {  css,
             iconUrl:user,
             name:"User Management system",
             description:"A user management system that allows users to create, update, and delete users.",
-            link:"https://user-management-2-l8v9.onrender.com"
+            link:"https://user-management-phi-roan.vercel.app"
         },
         {
             iconUrl:weather,
             name:"Weather App",
             description:"A weather app that displays the current weather conditions for a given location.",
-            link:"https://user-management-phi-roan.vercel.app"
+            link:"https://weather-app-cvzb.onrender.com"
         }
         ]
 
