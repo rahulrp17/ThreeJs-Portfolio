@@ -95,7 +95,7 @@ import {  css,
             iconUrl:weather,
             name:"Weather App",
             description:"A weather app that displays the current weather conditions for a given location.",
-            link:"https://weather-app-cvzb.onrender.com"
+            link:"https://user-management-phi-roan.vercel.app"
         }
         ]
 
