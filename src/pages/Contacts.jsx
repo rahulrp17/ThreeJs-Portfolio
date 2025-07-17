@@ -88,7 +88,7 @@ const Contact = () => {
               type="text"
               name="name"
               className="input bg-white border outline-blue-600 border-gray-200 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 mt-2.5 font-normal shadow-card"
-              placeholder="Rahul"
+              placeholder="Name"
               required
               value={form.name}
               onChange={handleChange}
@@ -102,7 +102,7 @@ const Contact = () => {
               type="email"
               name="email"
               className="input bg-white border border-gray-200 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 mt-2.5 font-normal shadow-card"
-              placeholder="rahulrp4021@gmail.com"
+              placeholder="Email"
               required
               value={form.email}
               onChange={handleChange}
